@@ -1,0 +1,84 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #F5F5F5;
+}
+
+nav {
+  height: 60px;
+}
+
+.jumbotron{
+  padding: 0;
+  background-image: url('../img/homepage.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.nav-item{
+  margin: 10px;
+}
+
+.nav-item a {
+  color: white  
+}
+
+.btn-nav {
+  border: solid white 1px;
+  color: white;
+  border-radius: 0px;
+}
+
+.jumbo_content {
+  padding: 50px 100px 150px 150px;
+}
+
+.display-5 {
+  color: white;
+}
+
+.search {
+  width: 600px;
+}
+
+.btn-next {
+  width: 125px;
+  height: 38px;
+}
+
+.btn-next {
+  background-color: red;
+  color: white;
+  border-radius: 0px;
+}
+
+.addressForm {
+  width: 1000px;
+}
+
+.cards {
+  background-color: #FFFFFF;
+  border: solid black 1px;
+  margin: 3%;
+  text-align: center;
+  padding: 25px;
+  color: #494949
+}
+
+hr {
+  width: 75px;
+  border: solid #CCCCCC 1px;
+}
+
+.section-4 {
+  background-image: url("../img/beachhome.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.info {
+  background-color: white;
+  padding: 100px;
+}
