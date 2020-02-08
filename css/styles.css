@@ -76,9 +76,16 @@ hr {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  padding: 50px 100px;
 }
 
 .info {
   background-color: white;
-  padding: 100px;
+  padding: 50px;
+  margin-bottom: 3%
+}
+
+.right-info {
+  border-left: solid #CCCCCC 1px;
+  height: 50%;
 }
