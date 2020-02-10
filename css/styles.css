@@ -89,3 +89,19 @@ hr {
   border-left: solid #CCCCCC 1px;
   height: 50%;
 }
+
+.section-5 {
+  background-color: #F5F5F5;
+  height: 425px;
+  margin-bottom: 3%;
+}
+
+.sect5slide {
+  padding: 0px 100px;
+}
+
+.footer {
+  border-top: solid #E2E2E2 1px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
